@@ -16,7 +16,7 @@ local function opt(key, default)
 end
 
 config = {
-  style = opt("style", "nightfox"),
+  style = opt("style", "pastelfox"),
   transparent = opt("transparent", false),
   comment_style = opt("italic_comments", false) and "italic" or "NONE",
   function_style = opt("italic_functions", false) and "italic" or "NONE",

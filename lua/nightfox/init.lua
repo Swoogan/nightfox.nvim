@@ -7,6 +7,7 @@ function M.reload()
   package.loaded["nightfox.theme"] = nil
   package.loaded["nightfox.colors"] = nil
   package.loaded["nightfox.colors.nightfox"] = nil
+  package.loaded["nightfox.colors.pastelfox"] = nil
   package.loaded["nightfox.util"] = nil
   package.loaded["nightfox.config"] = nil
   M.set()
