@@ -627,6 +627,7 @@ There are [extra](./extra) configuration files for the following:
 - [windows terminal](https://github.com/Microsoft/Terminal)
 - [xresources](https://wiki.archlinux.org/title/X_resources)
 - [zellij](https://zellij.dev/)
+- [plasma](https://kde.org/plasma-desktop/)
 
 [lualine]: https://github.com/nvim-lualine/lualine.nvim
 [lightline]: https://github.com/itchyny/lightline.vim
