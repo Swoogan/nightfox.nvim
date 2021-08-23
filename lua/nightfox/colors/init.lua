@@ -4,6 +4,7 @@ color.styles = {
   "nightfox",
   "nordfox",
   "palefox",
+  "dayfox",
 }
 
 function color.setup(config)
